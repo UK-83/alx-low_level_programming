@@ -8,7 +8,7 @@
  * @x:number
  * @y:power
  *
- * Return:x tothe pow of y.
+ * Return:x to the pow of y.
  * -1 if x < 0.
  */
 int _pow_recursion(int x, int y)
